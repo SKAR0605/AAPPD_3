@@ -1,0 +1,99 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  #heading{
+    font-family:'Montserrat', sans-serif;
+    font-size:65px;
+    text-shadow:10px 10px 10px #828282;
+  }
+  canvas{
+    border:0.5px solid black;
+    box-shadow:5px 5px 5px black;
+    margin-top:60px;
+  }
+  #instructions{
+    font-family:'Montserrat', sans-serif;
+    background-color:whitesmoke;
+    border:0.5px solid black;
+    border-radius:11px;
+    font-size:27px;
+  }
+  #instructions:hover{
+    background-color:#d2d1d1;
+  }
+  .modal-dialog{
+      width:90%;
+  }
+  #instruction_heading{
+    font-family:'Montserrat', sans-serif;
+  }
+  #rule1{
+    font-family:'Montserrat', sans-serif;
+  }
+  #identify{
+    font-family:'Montserrat', sans-serif;
+    background-color:whitesmoke;
+    border:0.5px solid black;
+    border-radius:11px;
+    font-size:27px;
+  }
+  #identify:hover{
+    background-color:#d2d1d1;
+  }
+  #camera{
+    box-shadow:5px 5px 5px black;
+  }
+  #capturebutton{
+    font-family:'Montserrat', sans-serif;
+    background-color:whitesmoke;
+    border:0.5px solid black;
+    border-radius:11px;
+    font-size:27px;
+  }
+  #capturebutton:hover{
+    background-color:#d2d1d1;
+  }
+  #disclamer{
+      font-family:'Montserrat', sans-serif;
+    background-color:whitesmoke;
+    border:0.5px solid black;
+    border-radius:11px;
+    font-size:27px;
+  }
+  #resultsbox{
+      font-family:'Montserrat', sans-serif;
+    background-color:whitesmoke;
+    border:0.5px solid black;
+    border-radius:11px;
+    font-size:27px;
+  }
+  #resultsbox:hover{
+    background-color:#d2d1d1;
+  }
+  #resulttext{
+    font-family:'Montserrat', sans-serif;
+    font-weight:bold;
+    font-size:19px;
+  }
+  #footer{
+    width:100%;
+    font-family:'Montserrat', sans-serif;
+    position:bottom;
+    background-color:#d2d1d1;
+    opacity:0.5;
+    font-size:18px;
+  }
+  #footer:hover{
+    opacity:1;
+  }
+  #capturedimagebutton{
+        font-family:'Montserrat', sans-serif;
+    background-color:whitesmoke;
+    border:0.5px solid black;
+    border-radius:11px;
+    font-size:27px;
+  }
+  #capturedimagebutton:hover{
+    background-color:#d2d1d1;  
+  }
